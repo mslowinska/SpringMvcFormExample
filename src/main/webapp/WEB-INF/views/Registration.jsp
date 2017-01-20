@@ -16,7 +16,7 @@
 					<td colspan="2" align="center"><h2>Payment Form</h2></td>
 				</tr>
 				<tr>
-					<td>First Name11111111111:</td>
+					<td>First Name:</td>
 					<td><form:input path="firstName" /></td>
 				</tr>
 				<tr>
