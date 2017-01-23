@@ -13,7 +13,7 @@
 		<form:form action="register" method="post" commandName="userForm">
 			<table border="0">
 				<tr>
-					<td colspan="2" align="center"><h2>Payment Form11</h2></td>
+					<td colspan="2" align="center"><h2>Payment Form</h2></td>
 				</tr>
 				<tr>
 					<td>First Name:</td>
