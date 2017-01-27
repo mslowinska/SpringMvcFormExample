@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Registration Form1111</title>
+<title>Registration Form</title>
 <link href="../resources/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
