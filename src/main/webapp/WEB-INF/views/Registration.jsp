@@ -33,10 +33,10 @@
 					<td>Address Line 1:</td>
 					<td><form:input path="address1" /></td>
 				</tr>
-				<!--  <tr>
+				 <tr>
 					<td>Address Line 2:</td>
 					<td><form:input path="address2" /></td>
-				</tr>-->		
+				</tr>		
 				<tr>
 					<td>Postcode:</td>
 					<td><form:input path="postcode" /></td>
