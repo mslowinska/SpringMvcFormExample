@@ -42,7 +42,7 @@
 					<td><form:input path="postcode" /></td>
 				</tr>
 				<tr>
-					<td>City:</td>
+					<td>City123:</td>
 					<td><form:input path="city" /></td>
 				</tr>
 				<tr>
