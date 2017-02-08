@@ -38,7 +38,7 @@
 					<td><form:input path="address2" /></td>
 				</tr>		
 				<tr>
-					<td>Postcode:</td>
+					<td>Postcode12:</td>
 					<td><form:input path="postcode" /></td>
 				</tr>
 				<tr>
